@@ -1,0 +1,17 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "x051_ore_addon:budoh_ore_feature"
+    },
+    "count": 4,
+    "replace_rules": [
+      {
+        "places_block": "x051_ore_addon:budoh_ore",
+        "may_replace": [
+          "minecraft:deepslate"
+        ]
+      }
+    ]
+  }
+}

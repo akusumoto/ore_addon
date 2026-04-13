@@ -1,0 +1,24 @@
+{
+  "resource_pack_name": "x051_ore_addon",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "budoh": {
+      "textures": "textures/items/budoh"
+    },
+    "budoh_sword": {
+      "textures": "textures/items/budoh_sword"
+    },
+    "budoh_helmet": {
+      "textures": "textures/items/budoh_helmet"
+    },
+    "budoh_chestplate": {
+      "textures": "textures/items/budoh_chestplate"
+    },
+    "budoh_leggings": {
+      "textures": "textures/items/budoh_leggings"
+    },
+    "budoh_boots": {
+      "textures": "textures/items/budoh_boots"
+    }
+  }
+}

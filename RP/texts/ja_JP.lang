@@ -1,0 +1,17 @@
+## Ore Add-on Localization (Japanese)
+## AddOn Identifier: x051_ore_addon
+
+pack.name=Ore Add-on
+pack.description=ブドー鉱石などの新しい鉱石ブロック・アイテムを追加します。
+
+## Items
+item.x051_ore_addon:budoh.name=ブドー
+item.x051_ore_addon:budoh_sword.name=ブドーの剣
+item.x051_ore_addon:budoh_helmet.name=ブドーのヘルメット
+item.x051_ore_addon:budoh_chestplate.name=ブドーのチェストプレート
+item.x051_ore_addon:budoh_leggings.name=ブドーのレギンス
+item.x051_ore_addon:budoh_boots.name=ブドーのブーツ
+
+## Blocks
+tile.x051_ore_addon:budoh_ore.name=深層岩ブドー鉱石
+tile.x051_ore_addon:budoh_block.name=ブドーブロック

@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ore Add-on RP",
+    "description": "ブドー鉱石などの新しい鉱石ブロック・アイテムのリソースを追加します。",
+    "uuid": "5a9e3f7c-d2b1-4806-c3e9-a7f5d0b82e46",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "7b4e6a2f-c8d3-0157-9e4b-f2a6c8d07e53",
+      "version": [1, 0, 0]
+    }
+  ]
+}

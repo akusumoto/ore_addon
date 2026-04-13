@@ -1,0 +1,14 @@
+{
+  "resource_pack_name": "x051_ore_addon",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "budoh_ore": {
+      "textures": "textures/blocks/budoh_ore"
+    },
+    "budoh_block": {
+      "textures": "textures/blocks/budoh_block"
+    }
+  }
+}

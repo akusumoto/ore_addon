@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "x051_ore_addon:budoh_boots"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "B B",
+      "B B"
+    ],
+    "key": {
+      "B": { "item": "x051_ore_addon:budoh" }
+    },
+    "unlock": [
+      { "item": "x051_ore_addon:budoh" }
+    ],
+    "result": {
+      "item": "x051_ore_addon:budoh_boots",
+      "count": 1
+    }
+  }
+}

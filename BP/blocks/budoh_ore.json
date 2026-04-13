@@ -1,0 +1,26 @@
+{
+  "format_version": "1.19.80",
+  "minecraft:block": {
+    "description": {
+      "identifier": "x051_ore_addon:budoh_ore",
+      "menu_category": {
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:loot": "loot_tables/blocks/budoh_ore.json",
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 4.5
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 9
+      },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "budoh_ore",
+          "render_method": "opaque"
+        }
+      }
+    }
+  }
+}

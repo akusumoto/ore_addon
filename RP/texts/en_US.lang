@@ -1,0 +1,17 @@
+## Ore Add-on Localization (English)
+## AddOn Identifier: x051_ore_addon
+
+pack.name=Ore Add-on
+pack.description=Adds new ore blocks and items (Budoh Ore, Budoh Block, Budoh gear).
+
+## Items
+item.x051_ore_addon:budoh.name=Budoh
+item.x051_ore_addon:budoh_sword.name=Budoh Sword
+item.x051_ore_addon:budoh_helmet.name=Budoh Helmet
+item.x051_ore_addon:budoh_chestplate.name=Budoh Chestplate
+item.x051_ore_addon:budoh_leggings.name=Budoh Leggings
+item.x051_ore_addon:budoh_boots.name=Budoh Boots
+
+## Blocks
+tile.x051_ore_addon:budoh_ore.name=Deepslate Budoh Ore
+tile.x051_ore_addon:budoh_block.name=Budoh Block

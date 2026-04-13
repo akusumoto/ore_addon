@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ore Add-on BP",
+    "description": "ブドー鉱石などの新しい鉱石ブロック・アイテムを追加します。",
+    "uuid": "2c7fa8d1-e6b0-4f23-a9d5-1c3e8b7f2a94",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "8f3d1c5a-b7e2-4690-82f1-d4a6c9e0b371",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "5a9e3f7c-d2b1-4806-c3e9-a7f5d0b82e46",
+      "version": [1, 0, 0]
+    }
+  ]
+}
