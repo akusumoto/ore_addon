@@ -98,3 +98,13 @@
   B   B
   B   B
   ```
+
+## 6. Block: Budoh Carpet (ブドーのカーペット)
+- **Identifier**: `x051_ore_addon:budoh_carpet`
+- **Type**: Decor Block
+- **Visuals**: Purple color, like a white carpet.
+- **Creative Menu**: Construction
+- **Recipe**: Crafted from 2 'Budoh' items.
+  ```text
+  B B
+  ```

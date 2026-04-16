@@ -39,5 +39,8 @@
     - Textrue: perple color like diamond boots
     - crafted from 4 'Budoh' items by craft table
     - Defense: 3
+- Add 'Budoh Carpet' item
+    - Textrue: perple color like white carpet
+    - crafted from 2 'Budoh' items by craft table
 
 ## Notes / Overall Goal

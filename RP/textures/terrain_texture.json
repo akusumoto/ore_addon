@@ -9,6 +9,9 @@
     },
     "budoh_block": {
       "textures": "textures/blocks/budoh_block"
+    },
+    "budoh_carpet": {
+      "textures": "textures/blocks/budoh_carpet"
     }
   }
 }

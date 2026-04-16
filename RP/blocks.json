@@ -7,5 +7,9 @@
   "x051_ore_addon:budoh_block": {
     "textures": "budoh_block",
     "sound": "stone"
+  },
+  "x051_ore_addon:budoh_carpet": {
+    "textures": "budoh_carpet",
+    "sound": "cloth"
   }
 }
