@@ -4,22 +4,19 @@
     "description": {
       "identifier": "x051_ore_addon:budoh_boots",
       "menu_category": {
-        "category": "equipment"
+        "category": "equipment",
+        "group": "itemGroup.name.boots"
       }
     },
     "components": {
       "minecraft:icon": {
-        "textures": {
-          "default": "budoh_boots"
-        }
+        "texture": "budoh_boots"
       },
       "minecraft:max_stack_size": 1,
       "minecraft:wearable": {
         "slot": "slot.armor.feet"
       },
-      "minecraft:armor": {
-        "protection": 3
-      },
+      "minecraft:defense_points": 3,
       "minecraft:durability": {
         "max_durability": 429
       },
@@ -30,7 +27,9 @@
       "minecraft:repairable": {
         "repair_items": [
           {
-            "items": ["x051_ore_addon:budoh"],
+            "items": [
+              "x051_ore_addon:budoh"
+            ],
             "repair_amount": 107
           }
         ]

@@ -1,17 +1,16 @@
 {
-  "format_version": "1.20.10",
+  "format_version": "1.20.20",
   "minecraft:item": {
     "description": {
       "identifier": "x051_ore_addon:budoh_sword",
       "menu_category": {
-        "category": "equipment"
+        "category": "equipment",
+        "group": "itemGroup.name.sword"
       }
     },
     "components": {
       "minecraft:icon": {
-        "textures": {
-          "default": "budoh_sword"
-        }
+        "texture": "budoh_sword"
       },
       "minecraft:damage": 9,
       "minecraft:max_stack_size": 1,
@@ -26,7 +25,9 @@
       "minecraft:repairable": {
         "repair_items": [
           {
-            "items": ["x051_ore_addon:budoh"],
+            "items": [
+              "x051_ore_addon:budoh"
+            ],
             "repair_amount": 390
           }
         ]

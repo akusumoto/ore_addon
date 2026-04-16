@@ -1,5 +1,5 @@
 {
-  "format_version": "1.19.80",
+  "format_version": "1.20.20",
   "minecraft:block": {
     "description": {
       "identifier": "x051_ore_addon:budoh_block",

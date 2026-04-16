@@ -4,22 +4,19 @@
     "description": {
       "identifier": "x051_ore_addon:budoh_leggings",
       "menu_category": {
-        "category": "equipment"
+        "category": "equipment",
+        "group": "itemGroup.name.leggings"
       }
     },
     "components": {
       "minecraft:icon": {
-        "textures": {
-          "default": "budoh_leggings"
-        }
+        "texture": "budoh_leggings"
       },
       "minecraft:max_stack_size": 1,
       "minecraft:wearable": {
         "slot": "slot.armor.legs"
       },
-      "minecraft:armor": {
-        "protection": 6
-      },
+      "minecraft:defense_points": 6,
       "minecraft:durability": {
         "max_durability": 495
       },
@@ -30,7 +27,9 @@
       "minecraft:repairable": {
         "repair_items": [
           {
-            "items": ["x051_ore_addon:budoh"],
+            "items": [
+              "x051_ore_addon:budoh"
+            ],
             "repair_amount": 124
           }
         ]

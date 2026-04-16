@@ -4,22 +4,19 @@
     "description": {
       "identifier": "x051_ore_addon:budoh_chestplate",
       "menu_category": {
-        "category": "equipment"
+        "category": "equipment",
+        "group": "itemGroup.name.chestplate"
       }
     },
     "components": {
       "minecraft:icon": {
-        "textures": {
-          "default": "budoh_chestplate"
-        }
+        "texture": "budoh_chestplate"
       },
       "minecraft:max_stack_size": 1,
       "minecraft:wearable": {
         "slot": "slot.armor.chest"
       },
-      "minecraft:armor": {
-        "protection": 8
-      },
+      "minecraft:defense_points": 8,
       "minecraft:durability": {
         "max_durability": 528
       },
@@ -30,7 +27,9 @@
       "minecraft:repairable": {
         "repair_items": [
           {
-            "items": ["x051_ore_addon:budoh"],
+            "items": [
+              "x051_ore_addon:budoh"
+            ],
             "repair_amount": 132
           }
         ]
